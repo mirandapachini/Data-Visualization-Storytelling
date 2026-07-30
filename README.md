@@ -42,6 +42,12 @@ images/           → Exported charts for README or presentation use
 
 ---
 
+## 👩‍💼 Skills & Profile
+- **Skills summary:** See [SKILLS.md](SKILLS.md) for a concise list of technical and communication skills useful for hiring managers.
+- **LinkedIn summary:** Use [LINKEDIN_SUMMARY.md](LINKEDIN_SUMMARY.md) as a ready-to-paste LinkedIn summary showcasing background and focus areas.
+
+---
+
 ## 📝 Notes
 - Dataset not included at this time
 - All visualizations were coded manually in Python
