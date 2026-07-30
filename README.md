@@ -1,54 +1,58 @@
-# Data-Visualization-Storytelling
-
-# 📊 Data Visualization & Storytelling
-A portfolio project showcasing narrative‑driven visualizations coded in Python.
+# Data Visualization & Storytelling
+A portfolio repository showcasing data-driven visual stories built with Python and Jupyter.
 
 ## 🔍 Overview
-This repository highlights my work for the Data Visualization course, with a focus on:
+This project demonstrates how analytical work can be translated into clear, stakeholder-ready visual narratives.
 
-- Insight‑driven storytelling
-- Clear and intentional visual design
-- Python‑based data visualization
-- Communicating analytical findings effectively
-
-All coding for the storytelling project was completed **individually in Python**.
-The final presentation summarizing the project was created **collaboratively as a group deliverable**.
+Key strengths:
+- Insight-driven visualization design
+- Reproducible Python analysis and storytelling
+- Data communication for non-technical audiences
+- Collaborative presentation of findings
 
 ---
 
 ## 📁 Repository Structure
-notebooks/        → Jupyter notebooks containing the full storytelling workflow  
-scripts/          → Python scripts used for data processing or plotting  
-data/             → (empty) datasets will be added later if permitted  
-presentation/     → Group PowerPoint summarizing the project  
-images/           → Exported charts for README or presentation use  
+`career/`           → Recruiter- and hiring manager-ready profile content
+`notebooks/`        → Jupyter notebooks with full analysis and narrative visualizations
+`presentation/`     → Final group slide deck
+`data/`             → Dataset folder for future reproducibility and supporting files
+`images/`           → Exported charts and visual assets
+
+---
+
+## 🌟 Project Highlights
+- `notebooks/nada-analysis.ipynb` — full exploratory analysis and narrative visualization workflow
+- `notebooks/retention-rates-uofl.ipynb` — retention analysis with actionable insights and charts
+- `presentation/group-presentation.pptx` — final presentation summarizing findings for stakeholders
 
 ---
 
 ## 🧰 Tools & Technologies
-- Python (pandas, matplotlib, seaborn, etc.)
-- Jupyter Notebook
-- Data storytelling and narrative design principles
-- PowerPoint (group presentation)
+- Python (pandas, numpy, matplotlib, seaborn, Altair)
+- Jupyter Notebook, IPython, Git, GitHub
+- Data storytelling, chart design, and visual hierarchy
+- SQL querying and exploratory data analysis
 
 ---
 
 ## 🚀 How to Explore This Project
-- Open the `notebooks/` folder to view the full Python workflow
-- Browse `scripts/` for standalone code used to generate visualizations
-- View the `presentation/` folder for the final group slides
-- Add datasets to the `data/` folder if needed for reproducibility
-- Check `images/` for exported charts used in the narrative
+- Review `career/SKILLS.md` for a concise employer-facing skills summary
+- Review `career/LINKEDIN_SUMMARY.md` for a polished professional summary
+- Open `notebooks/` to inspect the full analysis workflow
+- See `presentation/` for the final slide deck
+- Check `images/` for charts used to support the narrative
 
 ---
 
 ## 👩‍💼 Skills & Profile
-- **Skills summary:** See [SKILLS.md](SKILLS.md) for a concise list of technical and communication skills useful for hiring managers.
-- **LinkedIn summary:** Use [LINKEDIN_SUMMARY.md](LINKEDIN_SUMMARY.md) as a ready-to-paste LinkedIn summary showcasing background and focus areas.
+This repository pairs technical analysis with communication assets designed for hiring teams.
+- `career/SKILLS.md` summarizes technical and storytelling strengths
+- `career/LINKEDIN_SUMMARY.md` provides a ready-to-use LinkedIn profile summary
 
 ---
 
 ## 📝 Notes
-- Dataset not included at this time
-- All visualizations were coded manually in Python
-- Repository will continue to grow with additional storytelling projects
+- Dataset files are not included at this time
+- Analysis and visualizations were produced in Python and Jupyter
+- The project is organized to make portfolio review easy for employers
